@@ -1,6 +1,6 @@
 # 총알 발사하기
 
-일단 총알을 발사하려면 [4강]과 (./4-enemy-collision.md)과
+일단 총알을 발사하려면 [4강](./4-enemy-collision.md)과
 [5강](./5-explosion-effect.md)에서 한 것처럼 Prefab을 만들어야 한다.
 
 ![..](./res/sprite-crop-manual.png)
