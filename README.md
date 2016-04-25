@@ -7,3 +7,4 @@
 5. [폭발 효과 구현하기](./5-explosion-effect.md)
 6. [총알 발사하기](./6-laser-shoot.md)
 7. [총알 충돌 검사하기](./7-laser-collision.md)
+8. [폭발 효과음 내기](./8-explosion-sound.md)
