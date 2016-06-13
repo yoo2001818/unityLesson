@@ -9,3 +9,5 @@
 7. [총알 충돌 검사하기](./7-laser-collision.md)
 8. [폭발 효과음 내기](./8-explosion-sound.md)
 9. [적 스폰하기](./9-enemy-spawn.md)
+10. [몬스터와 캐릭터 빠져나가지 않게 하기](./10-enemy-bounds.md)
+11. [게임 매니저 구현하기](./11-game-manager.md)
