@@ -11,3 +11,4 @@
 9. [적 스폰하기](./9-enemy-spawn.md)
 10. [몬스터와 캐릭터 빠져나가지 않게 하기](./10-enemy-bounds.md)
 11. [게임 매니저 구현하기](./11-game-manager.md)
+12. [Scene 전환 / 배포](./12-scene-change.md)
