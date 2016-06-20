@@ -12,3 +12,4 @@
 10. [몬스터와 캐릭터 빠져나가지 않게 하기](./10-enemy-bounds.md)
 11. [게임 매니저 구현하기](./11-game-manager.md)
 12. [Scene 전환 / 배포](./12-scene-change.md)
+13. [글자 깜빡이기](./13-text-blink.md)
